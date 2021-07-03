@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0 auto;
     text-decoration: none;
+
     
 }
 .header{
@@ -11,6 +12,7 @@
     display: block;
     background-color:white;
     position: relative;
+
     
 }
 
@@ -57,4 +59,5 @@ position: absolute;
 
 
 }
+
 	
